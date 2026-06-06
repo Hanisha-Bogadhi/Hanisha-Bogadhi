@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Hanisha Bogadhi
 
-<!--
-**Hanisha-Bogadhi/Hanisha-Bogadhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AWS Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+I am passionate about cloud infrastructure, automation, and DevOps practices. Currently building hands-on projects using AWS, Terraform, Docker, Jenkins, Kubernetes, Linux, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+- AWS
+- Terraform
+- Docker
+- Jenkins
+- GitHub Actions
+- Kubernetes
+- Linux
+- Python
+- Git
+
+---
+
+## Featured Projects
+
+### AWS Multi-Environment Infrastructure Automation
+
+Provisioned AWS infrastructure using Terraform including VPC, EC2, Security Groups, and RDS.
+
+### CI/CD Pipeline for Python Flask Application
+
+Implemented automated build, test, Docker image creation, and deployment using Jenkins.
+
+### ShopSphere – End-to-End DevOps E-Commerce Platform
+
+Containerized application deployed on AWS using Docker, Jenkins, and Infrastructure as Code.
+
+---
+
+## Connect With Me
+
+LinkedIn: [www.linkedin.com/in/hanisha-bogadhi](https://www.linkedin.com/in/hanisha-bogadhi)
+
+Email: hanishabogadhi@gmail.com
+
+---
+Always learning and building in Cloud & DevOps
