@@ -30,7 +30,7 @@ Provisioned AWS infrastructure using Terraform including VPC, EC2, Security Grou
 
 Implemented automated build, test, Docker image creation, and deployment using Jenkins.
 
-### ShopSphere – End-to-End DevOps E-Commerce Platform
+### End-to-End DevOps E-Commerce Platform
 
 Containerized application deployed on AWS using Docker, Jenkins, and Infrastructure as Code.
 
